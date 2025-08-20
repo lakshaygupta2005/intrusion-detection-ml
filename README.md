@@ -1,2 +1,13 @@
-# intrusion-detection-ml
-Prototype machine learning model for anomaly detection in network traffic, exploring cybersecurity applications of ML.
+# Intrusion Detection using Machine Learning
+
+A prototype machine learning project for detecting anomalies in network traffic.  
+The goal is to explore how ML can be applied in cybersecurity, starting with a basic dataset and expanding to real-world scenarios.
+
+## Features
+- Train ML model to classify network traffic as normal or suspicious
+- Evaluate accuracy using standard metrics
+- Extendable to larger datasets and real-time traffic
+
+## Getting Started
+```bash
+python intrusion_detection.py
